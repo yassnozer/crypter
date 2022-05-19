@@ -1,0 +1,35 @@
+#app{
+    width: 50% !important;
+    margin: auto ;
+margin-top:2vh;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+border: 1px solid #f8f9fa;
+}
+.navbar-brand{
+    margin: 0px auto !important;
+}
+.alert{
+    
+        width: 50%;
+        margin: 3vh auto;
+        text-align: center;   
+}
+.form-select{
+    width: 30%;
+    margin: 0 auto;
+}
+#textarea  {  margin: 0 auto;
+width: 80%;}
+textarea{
+    min-height: 144px;
+        width: 100%;
+    
+}
+.form-select{
+    width: 30% !important;
+}
+.d-grid{
+    width: 50%;
+    margin: 0 auto;
+}
